@@ -7,7 +7,7 @@ Repositori ini berisi kode *slide* presentasi tugas kelompok
 matakuliah *Analisa dan Desain Perangkat Lunak* yang disusun 
 oleh:
 
-1. [Ahmad Muhar Dian Lasmita](https://ardianta.github.io)
+1. Dian
 2. Muhamad Azwar
 3. Wisnu Maulana
 4. L. Purwanda Bagus Wilman
